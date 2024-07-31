@@ -1,0 +1,1 @@
+Projects for the Ruby course of The Odin Project.
